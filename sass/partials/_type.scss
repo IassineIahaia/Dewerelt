@@ -23,6 +23,7 @@ h1{
 h2{
     font-size: rem(32px);
     margin-bottom: rem(10px);
+    line-height: 120%;
     @include breakpoint-desktop-small{
         font-size: rem(40px);
     }
