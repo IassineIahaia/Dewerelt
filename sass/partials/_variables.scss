@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"brandon-grotesque";
+    src:url("https://use.typekit.net/af/1281a1/000000000000000077359ded/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/1281a1/000000000000000077359ded/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/1281a1/000000000000000077359ded/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-stretch:normal;
+}
+@font-face {
+    font-family: 'Blacker';
+    src: url(/fonts/Extrabold.otf) format("opentype");
+}
+
+$html-font-size: 16px;
+
+// Colors
+$color-black: #000;
+$color-white: #fff;
+$color-grey: #E4E2DF;
+$color-black-light: #3E3939;
+$color-neutral-lightest: #EEEEEE;
+
+
+// Fonts
+$font-family-title: 'Blacker', sans-serif;
+$font-family-default: 'brandon-grotesque', sans-serif;
